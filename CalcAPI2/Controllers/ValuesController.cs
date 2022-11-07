@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Net.Http;
 namespace CalcAPI2.Controllers
 {
-    public class ValuesController : Controller
+    public class ValuesController_branch2 : Controller
     {
         // GET: ValuesController
         [HttpGet("/hello")]
