@@ -8,10 +8,10 @@ using System.Net.Http;
 namespace CalcAPI2.Controllers
 {
 
-    public class ValuesController_main1 : Controller
+    public class ValuesController_main : Controller
 
     {
-        // GET: ValuesController branch2 test
+        // GET: ValuesController main test
         [HttpGet("/hello")]
         public async Task <string> Hello()
         {
