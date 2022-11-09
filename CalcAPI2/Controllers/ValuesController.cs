@@ -11,7 +11,7 @@ namespace CalcAPI2.Controllers
     public class ValuesController_main1 : Controller
 
     {
-        // GET: ValuesController branch2
+        // GET: ValuesController branch2 test
         [HttpGet("/hello")]
         public async Task <string> Hello()
         {
