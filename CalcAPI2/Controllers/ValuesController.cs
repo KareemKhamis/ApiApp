@@ -8,7 +8,7 @@ using System.Net.Http;
 namespace CalcAPI2.Controllers
 {
 
-    public class ValuesController_main : Controller
+    public class ValuesController_branch: Controller
 
     {
         // GET: ValuesController main test
