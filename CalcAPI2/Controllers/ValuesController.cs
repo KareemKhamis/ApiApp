@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using System.Net.Http;
 namespace CalcAPI2.Controllers
 {
-    public class ValuesController_main : Controller
+    public class ValuesController_main_branch2 : Controller
     {
-        // GET: ValuesController
+        // GET: ValuesController branch2
         [HttpGet("/hello")]
         public async Task <string> Hello()
         {
